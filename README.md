@@ -22,6 +22,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ## 📫 Connect with Me
 
-- [LinkedIn]((https://www.linkedin.com/in/babatunde-o-84119818b/))
+- [LinkedIn](https://www.linkedin.com/in/babatunde-o-84119818b/)
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate.
