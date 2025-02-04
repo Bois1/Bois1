@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 🔭 I’m currently working on various open-source projects.
 - 🌱 I’m constantly learning and exploring new technologies.
 - 💬 Ask me about web development, Backend Engineering, and other interesting stuff.
-- 📫 How to reach me: [tundepetra0@gmail.com.com](mailto:tundepetra0@gmail.com)
+- 📫 How to reach me: [tundepetra0@gmail.com](mailto:tundepetra0@gmail.com)
 
 ## 🛠️ Skills
 
