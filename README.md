@@ -16,9 +16,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure
 
-## 📈 GitHub Stats
-
-![Babatunde's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bois1&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
