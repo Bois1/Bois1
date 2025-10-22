@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ## 🛠️ Skills
 
 - **Languages:** PHP, JavaScript, TypeScript
-- **Web Development:** HTML, CSS, React, Node.js, Express.js
+- **Web Development:** HTML, CSS, React, Node.js, Express.js, NextJS
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure
 
